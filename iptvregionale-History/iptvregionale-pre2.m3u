@@ -28,7 +28,7 @@ https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
 #EXTINF:-1,[271] Teleromauno
 https://flash2.xdevel.com/teleromauno/teleromauno/manifest.mpd
 #EXTINF:-1,[629] Telelazionord
-http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
+https://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
 #EXTINF:-1,[680] RTR99TV
 https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
 #EXTINF:-1,[686] Simply TV
@@ -49,7 +49,7 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 #EXTINF:-1,[19] Espansione TV
 https://srvx1.selftv.video/espansione/live/playlist.m3u8
 #EXTINF:-1,[71] Teleboario
-http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
+https://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
 #EXTINF:-1,[86] Supersix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1,[87] TT 2 TELETUTTO

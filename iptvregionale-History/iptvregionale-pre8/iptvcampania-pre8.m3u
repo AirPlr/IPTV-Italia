@@ -32,7 +32,7 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1,[602] TeleradioErcolano
 https://eu1.servers10.com:8081/8012/index.m3u8
 #EXTINF:-1,[619] StileTV
-http://convision2.convergenze.it/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+https://convision2.convergenze.it/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1,[620] CRC Targato Italia
 https://flash2.xdevel.com/crctv/crctv/manifest.mpd
 #EXTINF:-1,[627] Paradise TV
@@ -50,7 +50,7 @@ https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
 #EXTINF:-1,[655] Radio Marte TV
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 #EXTINF:-1,[670] Teleoltre
-http://1so1.troydesign.eu/np_teleoltre/channel1_np_teleoltre/playlist.m3u8
+https://1so1.troydesign.eu/np_teleoltre/channel1_np_teleoltre/playlist.m3u8
 #EXTINF:-1,[674] KISS KISS TV Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1,[696] OttoChannel
